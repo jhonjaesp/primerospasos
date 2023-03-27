@@ -21,6 +21,9 @@ public class Primer_Proyecto {
         
         String nombre;
         
+        String apellido;
+        
+        
         System.out.println("ingrese nombre");
                 nombre=leer.next();
                 
